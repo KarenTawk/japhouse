@@ -1,0 +1,11 @@
+Model Information:
+* title:	190513 Japanese House
+* source:	https://sketchfab.com/3d-models/190513-japanese-house-2066f00cf68443d2b58dc32702596de4
+* author:	neih.D (https://sketchfab.com/ntdhdesigner)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "190513 Japanese House" (https://sketchfab.com/3d-models/190513-japanese-house-2066f00cf68443d2b58dc32702596de4) by neih.D (https://sketchfab.com/ntdhdesigner) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
